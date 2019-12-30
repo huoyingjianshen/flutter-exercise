@@ -1,0 +1,1 @@
+const bool globalBuildRelease = const bool.fromEnvironment("dart.vm.product");
